@@ -1,0 +1,45 @@
+body{
+    background-color: #333533;
+    color:#a2d2ff;
+    font-family:'Times New Roman';
+    font-size: 20px;
+    text-transform: uppercase;
+    text-transform: initial;
+}
+h1 {
+    color:#8338ec; 
+    text-align: center;
+    font-size: 32px;
+    font-family: 'Verdana';
+    text-transform: uppercase;
+}
+img{
+    width: 400px;height: 230px;
+    border-radius: 8px;
+}
+h2 {
+    color:#f15bb5;
+}
+
+h3 {
+    color: red;
+}
+.titulo-especial {
+    color: #6F0D37;
+}
+.letra-cursiva{
+    font-style: italic;
+}
+span{
+    color:white;
+    font-weight: bold;
+}
+.especial{
+    background-color: black;
+    color:#a2d2ff;
+}
+a{
+    color:red;
+    font-size: 28px;
+    font-weight: 300;
+}
